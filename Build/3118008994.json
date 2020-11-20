@@ -1,0 +1,14 @@
+{
+"companyName": "GDUT_VIT company",
+"productName": "3118008994Chester",
+"dataUrl": "3118008994.data.unityweb",
+"wasmCodeUrl": "3118008994.wasm.code.unityweb",
+"wasmFrameworkUrl": "3118008994.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "3118008994.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
